@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-//import './App.css';
+import './App.css';
 
 const initialTasks = [
   { id: 1, title: 'Task 1', status: 'todo' },
